@@ -1,0 +1,6 @@
+{
+  "name": "TTS Studio",
+  "description": "Production utility for generating short-form narration audio across multiple channels using Gemini TTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
